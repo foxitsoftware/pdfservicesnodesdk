@@ -1,0 +1,15 @@
+{
+  "name": "@raymondcamden/pdfservice_sdk_foxit",
+  "version": "0.0.1",
+  "description": "A SDK wrapper for Foxit's PDF Services and Document Generation APIs.",
+  "keywords":["pdf services","pdf conversion","document generation","foxit","sdk"],
+  "homepage":"https://github.com/foxitsoftware/pdfservicesnodesdk",
+  "bugs": {
+    "url":"https://github.com/foxitsoftware/pdfservicesnodesdk/issues"
+  },
+  "author": "Raymond Camden",
+  "type": "module",
+  "files": ["dist"],
+  "license":"Apache-2.0",
+  "main": "dist/index.js"
+}
